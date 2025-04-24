@@ -23,7 +23,6 @@ def get_freq_dict(string):
 
     return freq_dict
 
-
 def sort_by_count(dict):
     """
     Helper function to extract the 'count' value from a dictionary.
